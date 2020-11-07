@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Olá Bobi</string>
+    <string name="imagem">Imagem</string>
+    <string name="textview_text">Estou na Details Activity</string>
+    <string name="open_details_txt">Abrir Detalhes</string>
+    <string name="button_text">Abrir Camera</string>
+    <string name="open_dialog_txt">Abrir Dialogo</string>
+    <string name="open_snackbar_txt">Abrir SnackBar</string>
+    <string name="dialog_txt">Mas que cães tão bonitos!</string>
+    <string name="snackbar_txt">Thank you!</string>
+</resources>

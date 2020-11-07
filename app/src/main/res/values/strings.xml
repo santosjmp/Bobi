@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Bobi</string>
+    <string name="app_name">Hello Bobi</string>
+    <string name="imagem">Image</string>
+    <string name="textview_text">I\'m in Details Activity</string>
+    <string name="open_details_txt">Open Details</string>
+    <string name="button_text">Open Camera</string>
+    <string name="open_dialog_txt">Open Dialog</string>
+    <string name="open_snackbar_txt">Open SnackBar</string>
+    <string name="dialog_txt">What beautiful dogs!</string>
+    <string name="snackbar_txt">Thank you!</string>
 </resources>
