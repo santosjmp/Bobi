@@ -8,4 +8,16 @@
     <string name="open_snackbar_txt">Open SnackBar</string>
     <string name="dialog_txt">What beautiful dogs!</string>
     <string name="snackbar_txt">Thank you!</string>
+    <string name="question_article">Like the article?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="open_fragment_button_text">Open fragment</string>
+    <string name="close_fragment_button_text">Close fragment</string>
+    <string name="hint_username">Your username goes here</string>
+    <string name="hint_password">Your password goes here</string>
+    <string name="action_authenticate">Authenticate</string>
+    <string name="save_credentials">Save credentials</string>
+    <string name="error_invalid_credentials">Invalid credentials</string>
 </resources>

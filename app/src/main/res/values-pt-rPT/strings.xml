@@ -8,5 +8,17 @@
     <string name="open_dialog_txt">Abrir Dialogo</string>
     <string name="open_snackbar_txt">Abrir SnackBar</string>
     <string name="dialog_txt">Mas que cães tão bonitos!</string>
-    <string name="snackbar_txt">Thank you!</string>
+    <string name="snackbar_txt">Obrigado!</string>
+    <string name="question_article">Gostou do artigo?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="yes_message">Artigo: Gosto</string>
+    <string name="no_message">Artigo: Obrigado</string>
+    <string name="open_fragment_button_text">Abrir fragment</string>
+    <string name="close_fragment_button_text">Fechar fragment</string>
+    <string name="hint_username">Introduz o teu nome de utilizador aqui</string>
+    <string name="hint_password">Introduz a tua palavra-chave aqui</string>
+    <string name="action_authenticate">Autenticar</string>
+    <string name="save_credentials">Guardar os dados</string>
+    <string name="error_invalid_credentials">Credenciais inválidas</string>
 </resources>
